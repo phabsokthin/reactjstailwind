@@ -1,0 +1,16 @@
+[
+
+    {   "id": 1,
+        "name": "sokthin",
+        "age": "450",
+        "pob": "Good",
+
+        "famili":[
+            {
+                "work": "Working",
+                "parent": "Farmer"
+            }
+        ]
+    }
+
+]
